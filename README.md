@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=2F4F4F	&height=160&section=header&text=Hi!%20I'm%20Hyojoon!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=slice&color=2F4F4F&height=160&section=header&text=Hi!%20I'm%20Hyojoon!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 
 
 <h3 align="center">👋 It's me! 👋</h3>
